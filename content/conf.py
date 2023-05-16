@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Introduction to HPC (Beta)"
-copyright = "2022, EPCC at the University of Edinburgh"
-author = "James Richings EPCC"
+project = "ARCHER2 Online Course Template"
+copyright = "2023, EPCC at the University of Edinburgh"
+author = "Dr James Richings"
 github_user = "JPRichings"
 github_repo_name = ""  # auto-detected from dirname if blank
 github_version = "main"
@@ -79,8 +79,8 @@ exclude_patterns = [
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
-html_logo = "./epcc_logo.svg"
-html_favicon= "./epcc_logo.svg"
+html_logo = "./images/epcc_logo.svg"
+html_favicon= "./images/epcc_logo.svg"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

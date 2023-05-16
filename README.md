@@ -1,4 +1,4 @@
-# Work in progress introduction to HPC self service online course materials
+# This is a template for writing Sphinx lessons developed for ARCHER2 and EPCC online material
 
 Uses the Coderefinery Sphinx template:
 
