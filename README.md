@@ -15,6 +15,7 @@ In order to seperate development and deployment of the repository we two branche
 - deploy branch: The current live version of the webpage that should only take merge requests from the develop branch once a release is ready to be pushed to the live website.
 
 
+
 ## This is a template for writing Sphinx lessons developed for ARCHER2 and EPCC online material
 
 Uses the Coderefinery Sphinx template:
